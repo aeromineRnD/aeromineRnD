@@ -7,6 +7,8 @@ Advanced drone services delivering high-resolution imagery, 3D modeling, volume 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aeromine-info)
 
+**This repository is maintained by AeroMine R&D developers. Our key purpose is to extend capabilities, explore emerging technologies, and deliver measurable value to our customers through open-source innovation in aerial surveying and 3D data analysis.**
+
 ## Services
 
 | Service | Description |
