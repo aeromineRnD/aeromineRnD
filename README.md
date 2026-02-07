@@ -14,7 +14,7 @@ Advanced drone services delivering high-resolution imagery, 3D modeling, volume 
 | Aerial Imagery & Video | Precision visuals for engineering insights. [Portfolio](https://www.aeromine.info/portfolio-collections/my-portfolio/photos) |
 | 3D Modeling | Point cloud data integrated with design software. [Portfolio](https://www.aeromine.info/portfolio-collections/my-portfolio/3d-models) |
 | Area & Volume Calculation | 0.01m accuracy measurements. [Portfolio](https://www.aeromine.info/portfolio-collections/my-portfolio/aeria-volume-measurement) |
-| 4D Build Vision | Real-time construction progress tracking. [Portfolio](https://www.aeromine.info/portfolio-collections/my-portfolio/4d-build-vision) |
+| 4D Build Vision | Real-time construction progress tracking. [Portfolio](https://www.aeromine.info/portfolio-collections/my-portfolio/3d-models) |
 
 ## R&D Projects
 
