@@ -20,8 +20,9 @@ Advanced drone services delivering high-resolution imagery, 3D modeling, volume 
 
 ## R&D Projects
 
-[3D Logo - AeroMine](https://aeromine-3d-logo.vercel.app/) (Three.js, React) - Feb 2026
-[3D Cube - Services - AeroMine](https://aeromine-3d-services.vercel.app/) (Three.js, React) - Feb 2026
+- [3D Logo - AeroMine](https://aeromine-3d-logo.vercel.app/) (Three.js, React) — Feb 2026
+- [3D Cube - Services - AeroMine](https://aeromine-3d-services.vercel.app/) (Three.js, React) — Feb 2026
+
 
 ## Technology Stack
 
