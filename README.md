@@ -29,6 +29,7 @@ Advanced drone services delivering high-resolution imagery, 3D modeling, volume 
 - [3D Open Office - AeroMine](https://aeromine-3d-open-office.vercel.app/) (Three.js, React) - March 2026
 - [3D Open Pit - AeroMine](https://aeromine-3d-open-pit.vercel.app/) (Three.js, React) - March 2026
 - [3D Real Estate - AeroMine](https://aeromine-3d-real-estate.vercel.app/) (Three.js, React) - April 2026
+- [3D Farm - AeroMine](https://aeromine-3-d-olive-trees-farm.vercel.app/) (Three.js, React) - July 2026
 
 
 
